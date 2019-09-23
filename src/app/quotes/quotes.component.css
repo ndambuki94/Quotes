@@ -41,7 +41,7 @@
   }
   
   .card:nth-child(6n-5) {
-    background-color: #0088ff;
+    background-color: burlywood;
   }
   .card:nth-child(6n-4) {
     background-color: green;
