@@ -26,7 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](../quotes/
 
 ## Acknowledgements
 
-[Tour of Heroes](https://angular.io/tutorial)
+[survival for the fittest](https://angular.io/tutorial)
 
 
 
