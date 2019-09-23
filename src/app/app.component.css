@@ -2,10 +2,7 @@ header{
     text-align: center;
     margin: 30px;
     color: gray;  /* Fallback: assume this color ON TOP of image */
-    background: url("../assets/title-background.gif");
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  
+    
   }
   h1 {
     text-transform: uppercase;
