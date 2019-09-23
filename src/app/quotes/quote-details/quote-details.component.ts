@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Quote } from '../quote';
-import { TimeCountPipe} from '../time-count.pipe';
+import { Quote } from 'src/app/quote';
+import { TimeCountPipe} from 'src/app/time-count.pipe';
 
 @Component({
   selector: 'app-quote-details',
