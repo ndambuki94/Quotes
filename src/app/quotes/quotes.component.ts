@@ -54,6 +54,10 @@ export class QuotesComponent implements OnInit {
         new Quote(' Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma - which is living with the results of other people\'s thinking. Don\'t let the noise of others\' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. ', 'Steve Jobs', 'Admin', new Date(2018, 4, 28, 7, 49), 0, 0)
     
       ];
+      delete(i) {
+        this.quotes.splice(i, 1);
+          }
+    
 
   constructor() { }
 
